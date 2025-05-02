@@ -1,6 +1,6 @@
-# AlgoViz - Interactive Algorithm Learning Platform
+# VividGlyph - Interactive Algorithm Learning Platform
 
-AlgoViz is a comprehensive, interactive platform for learning algorithms through visualizations, explanations, and hands-on practice. The platform covers a wide range of algorithm topics, from basic sorting and searching to advanced techniques like dynamic programming and graph algorithms.
+Vivid Glyph is a comprehensive, interactive platform for learning algorithms through visualizations, explanations, and hands-on practice. The platform covers a wide range of algorithm topics, from basic sorting and searching to advanced techniques like dynamic programming and graph algorithms.
 
 ## Features
 

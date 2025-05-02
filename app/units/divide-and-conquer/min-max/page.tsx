@@ -379,7 +379,6 @@ The divide-and-conquer approach reduces the number of comparisons needed compare
           code={algorithm}
           language="javascript"
           title="Min-Max Finding Algorithm (Divide and Conquer)"
-          explanation={explanationSteps}
           inputValues={input}
           outputValues={result}
         />

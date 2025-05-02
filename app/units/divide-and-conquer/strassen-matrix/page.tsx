@@ -636,7 +636,6 @@ This algorithm performs n×m×p multiplications and additions, resulting in O(n�
           code={algorithm}
           language="javascript"
           title={isPower2 ? "Strassen's Matrix Multiplication Algorithm" : "Standard Matrix Multiplication Algorithm"}
-          explanation={explanationSteps}
           inputValues={input}
           outputValues={result.resultMatrix}
         />

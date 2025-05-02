@@ -536,7 +536,6 @@ The divide-and-conquer approach guarantees we find the optimal solution by consi
           code={algorithm}
           language="javascript"
           title="Maximum Subarray Algorithm (Divide and Conquer)"
-          explanation={explanationSteps}
           inputValues={input}
           outputValues={result}
         />
