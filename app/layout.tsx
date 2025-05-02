@@ -1,6 +1,7 @@
 import { ThemeProvider } from "@/components/theme-provider"
 import { AppSidebar } from "@/components/app-sidebar"
 import { SidebarProvider } from "@/components/ui/sidebar"
+import { Analytics } from "@vercel/analytics/react"
 
 import './globals.css'
 
@@ -28,6 +29,7 @@ export default function RootLayout({
               <AppSidebar />
               <div className="w-full ">
                 {children}
+                <Analytics />
               </div>
             </div>
           </SidebarProvider>
