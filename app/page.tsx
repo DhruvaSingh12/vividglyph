@@ -47,7 +47,7 @@ export default function Home() {
       description: "Learn systematic search techniques for solving constraint satisfaction problems.",
       topics: 7,
       hours: 15,
-      path: "/units/backtracking-branch-bound",
+      path: "/units/branch-bound",
       icon: <BookOpenCheck className="h-5 w-5" />,
       color: "from-amber-600 to-orange-600",
       textColor: "text-amber-600",

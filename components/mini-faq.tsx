@@ -72,7 +72,7 @@ export function MiniFAQ({ title, algorithm, questions: initialQuestions }: MiniF
   };
 
   return (
-    <Card className="border rounded-lg shadow-sm flex flex-col w-fit lg:w-[700px] h-[435px]">
+    <Card className="border rounded-lg shadow-sm flex flex-col w-full h-full">
       <div className="px-6 pt-3 border-b">
         <h2 className="text-2xl mb-2 font-bold">{title}</h2>
       </div>
